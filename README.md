@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/☣_TeamCyberOps-Recon_v15.0-dc1432?style=for-the-badge&labelColor=0a0005" alt="TeamCyberOps Recon v14.7"/>
+<img src="https://img.shields.io/badge/☣_TeamCyberOps-Recon_v14.7-dc1432?style=for-the-badge&labelColor=0a0005" alt="TeamCyberOps Recon v14.7"/>
 
 # TeamCyberOps Recon Engine v14.7
 
