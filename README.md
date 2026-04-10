@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/☣_TeamCyberOps-Recon_v15.0-dc1432?style=for-the-badge&labelColor=0a0005" alt="TeamCyberOps Recon v15"/>
+<img src="https://img.shields.io/badge/☣_TeamCyberOps-Recon_v15.0-dc1432?style=for-the-badge&labelColor=0a0005" alt="TeamCyberOps Recon v14.7"/>
 
-# TeamCyberOps Recon Engine v15.0
+# TeamCyberOps Recon Engine v14.7
 
 **The most aggressive browser-based OSINT & Bug Bounty recon platform**
 
 *Single HTML file · Zero install · Glass Morphism UI · 10M data limit · 21 sources · Zero console errors*
 
-[![Version](https://img.shields.io/badge/version-v15.0-dc1432?style=flat-square)](https://github.com/mohidqx/TeamCyberOps-Recon/releases)
+[![Version](https://img.shields.io/badge/version-v14.7-dc1432?style=flat-square)](https://github.com/mohidqx/TeamCyberOps-Recon/releases)
 [![License](https://img.shields.io/badge/license-MIT-8b5cf6?style=flat-square)](LICENSE)
 [![Author](https://img.shields.io/badge/@mohidqx-TeamCyberOps-00e5a0?style=flat-square&logo=github)](https://github.com/mohidqx)
 [![Stars](https://img.shields.io/github/stars/mohidqx/TeamCyberOps-Recon?style=flat-square&color=fbbf24)](https://github.com/mohidqx/TeamCyberOps-Recon/stargazers)
@@ -22,7 +22,7 @@
 ## ⚡ Quick Start
 
 ```
-1. Download  →  v15.0.html
+1. Download  →  v14.7.html
 2. Open      →  Chrome / Firefox / Edge
 3. Type      →  hackerone.com
 4. Press     →  Ctrl+Enter
@@ -32,7 +32,8 @@
 
 ---
 
-## 🎨 v15.0 — Complete Premium UI Overhaul
+## 🎨 v14.7 — Complete Premium UI Overhaul
+<img width="1243" height="953" alt="image" src="https://github.com/user-attachments/assets/bf785d15-5880-42f6-9cc7-c189e44ab766" />
 
 | Feature | Details |
 |---------|---------|
